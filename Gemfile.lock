@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ZenTest (4.11.0)
+    ZenTest (4.12.0)
     actionmailer (4.2.9)
       actionpack (= 4.2.9)
       actionview (= 4.2.9)
